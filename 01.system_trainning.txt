@@ -50,6 +50,8 @@ danh sách nhân viên:
   12	Châu Thị Bạch Lý	chức vụ Kế toán, ngày vào làm	15/07/2024 mã nhân viên	Ly20240715
   13	Nguyễn Lê Thảo Vy	chức vụ Sale Admin, ngày vào làm	02/12/2024 mã nhân viên	Vy20241202
 
+Trần Thị Thanh Thúy , ngày vào làm 30/01/2023 .  nghỉ ngày 1/4/2025
+
 
 
 1. chai nhựa
