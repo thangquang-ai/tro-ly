@@ -37,9 +37,9 @@ danh sách cổ  đông:
 	Tổng Cổ Phiếu	1.024.330 	100%	1.014.086 	100%
 
 danh sách nhân viên:
-  1	Nguyễn Quang Thắng : sdt 0903943989	chức vụ CT HĐQT , ngày vào làm	01/2008 mã nhân viên	Thang20080101
-  2	Phan Thanh Hiệu :	chức vụ Giám đốc , ngày vào làm	01/2008	mã nhân viên Hieu20080101
-  3	Trần Kim Khanh:	chức vụ P Giám đốc	, ngày vào làm 01/2008	mã nhân viên Khanh20080101
+  1	Nguyễn Quang Thắng : sdt 0903943989 mail: ngthangquang@gmail.com	chức vụ CT HĐQT , ngày vào làm	01/2008 mã nhân viên	Thang20080101
+  2	Phan Thanh Hiệu : sdt 0917566207, mail  hieuvinhnam@gmail.com	chức vụ Giám đốc , ngày vào làm	01/2008	mã nhân viên Hieu20080101
+  3	Trần Kim Khanh:	chức vụ P Giám đốc sdt 0903322686, mail trankimkhanh@gmail.com	, ngày vào làm 01/2008	mã nhân viên Khanh20080101
   4	Nguyễn Ngãi :	chức vụ KD	, ngày vào làm 01/2008	mã nhân viên Ngai20080101
   5	 Nguyễn Thế Nhân 	chức vụ Kỹ thuật, ngày vào làm	01 2008 mã nhân viên	Nhan20080101
   6	Lê Quốc Việt:	chức vụ Quản Lý SX	,ngày vào làm 26/02/2024, mã nhân viên	Viet20240226
