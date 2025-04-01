@@ -82,12 +82,28 @@ Trần Trọng Hiếu	Ngày vào làm	12/2021	Ngày sinh	21/05/1999	sdt	09449073
 Võ Minh Nguyên	Ngày vào làm	04/2022	Ngày sinh	26/06/1966	sdt	0904538330	420/20/4, KP5, Tân Tiến, TP. Biên Hòa, Đồng Nai
 
 Kỹ thuật nhựa 
-18	Lê Văn Công	Ngày vào làm	07/2012	Ngày sinh	4/22/1978	0938811570	494/11D Cách Mạng Tháng 8, P11, Q3, TP. Hồ Chí Minh
-19	Hoàng Minh Vương	Ngày vào làm	03/2017		9/18/1993	0364908056	Thôn 1, Triệu Hải, Đạ Teh, Lâm Đồng
-20	Nguyễn Nguyên Trạng	Ngày vào làm	2/22/2023		9/10/1987	0963041908	Rạch Muỗi, Phú Hưng, Cái Nước, Cà Mau
-21	Trần Phước	Ngày vào làm	06/2016		8/4/1992	0938811570	Nại Cửu, Triệu Đông, Triệu Phong, Quảng Trị
-22	Võ Văn Mạnh	Ngày vào làm	06/2016		5/10/1997	0962521156	Thôn Cồn Bồi Kiệt, Triệu Long, Triệu Phong, Quảng Trị
-23	Đặng Văn Lịch		03/2022		7/26/1978	0907468173	Thạnh Quới, Vĩnh Thạnh, Cần Thơ
+18	Lê Văn Công kỹ thuật	Ngày vào làm	07/2012	Ngày sinh	4/22/1978	0938811570	494/11D Cách Mạng Tháng 8, P11, Q3, TP. Hồ Chí Minh
+19	Hoàng Minh Vương kỹ thuật	Ngày vào làm	03/2017		9/18/1993	0364908056	Thôn 1, Triệu Hải, Đạ Teh, Lâm Đồng
+20	Nguyễn Nguyên Trạng	kỹ thuật Ngày vào làm	2/22/2023		9/10/1987	0963041908	Rạch Muỗi, Phú Hưng, Cái Nước, Cà Mau
+21	Trần Phước	trưởng ca Ngày vào làm	06/2016		8/4/1992	0938811570	Nại Cửu, Triệu Đông, Triệu Phong, Quảng Trị
+22	Võ Văn Mạnh	trưởng ca Ngày vào làm	06/2016		5/10/1997	0962521156	Thôn Cồn Bồi Kiệt, Triệu Long, Triệu Phong, Quảng Trị
+23	Đặng Văn Lịch	tổ trưởng kỹ thuật	03/2022		7/26/1978	0907468173	Thạnh Quới, Vĩnh Thạnh, Cần Thơ
+
+
+Bộ phận kho , QC
+Phan Thành Học	QC	2/11/2023	5/19/2001	089201016994	Ấp Vĩnh Thành, Vĩnh Tường, An Phú, An Giang
+Phạm Văn Chí Thanh	QC	28/07/2023	6/25/1998	086098004684	Ấp Hồi Phước, Xuân Hiệp, Trà Ôn, Vĩnh Long
+Ngô Trí Đại	kho	09/2016	4/2/1994	040094012836	Xóm 2, Nghi Mỹ, Nghi Lộc, Nghệ An
+Nguyễn Vũ Luân	kho	01/02/2023	8/16/2005	091205010544	Ấp Thạnh Trúc, Thạnh Trị, Tân Hiệp, Kiên Giang
+Danh Được	kho	03/02/2023	3/2/1976	091076001892	KP Vĩnh Phước 1, Thị Trấn Vĩnh Thuận, Vĩnh Thuận, Kiên Giang
+
+bộ phận xay Đổ keo
+Nguyễn Văn Vĩnh Thuận	xay	04/2020	10/4/1968	092068010286	Thạnh Phước 1, Thạnh Hòa, Thốt Nốt, Cần Thơ
+Nguyễn Thanh Hải		02/02/2023	1/1/1983	091083019916	Ấp Thạnh Trúc, Thạnh Trị, Tân Hiệp, Kiên Giang
+Thạch Nhật		03/02/2023	2/1/1989	091089010452	Tổ 5, Thạnh Trúc, Thạnh Trị, Tân Hiệp, Kiên Giang
+Trương Văn Bé Tư		03/02/2023	01/01/1982	087082013447	Ấp Bình Thành A, Bình Thạnh, TX Hồng Ngự, Đồng Tháp
+Danh Phương		03/02/2023	3/2/1976	091073009983	Ấp Ruộng Sạ 1, Vĩnh Phong, Vĩnh Thuận, Kiên Giang
+Nguyễn Văn Thanh	Đổ keo	2/15/2024	1/1/1987	094087015475	Trường Lộc, Trường Khánh, Long Phú, Sóc Trăng
 
 
 nhà Xưởng:
