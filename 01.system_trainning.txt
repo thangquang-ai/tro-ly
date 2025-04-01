@@ -81,6 +81,14 @@ Lê Đức Mỹ	Ngày vào làm	07/2019	Ngày sinh	28/09/1992	sdt	0848939123	An 
 Trần Trọng Hiếu	Ngày vào làm	12/2021	Ngày sinh	21/05/1999	sdt	0944907357	Tâm Xuân 2, Cam Thành, Cam Lộ, Quảng Trị
 Võ Minh Nguyên	Ngày vào làm	04/2022	Ngày sinh	26/06/1966	sdt	0904538330	420/20/4, KP5, Tân Tiến, TP. Biên Hòa, Đồng Nai
 
+Kỹ thuật nhựa 
+18	Lê Văn Công	Ngày vào làm	07/2012	Ngày sinh	4/22/1978	0938811570	494/11D Cách Mạng Tháng 8, P11, Q3, TP. Hồ Chí Minh
+19	Hoàng Minh Vương	Ngày vào làm	03/2017		9/18/1993	0364908056	Thôn 1, Triệu Hải, Đạ Teh, Lâm Đồng
+20	Nguyễn Nguyên Trạng	Ngày vào làm	2/22/2023		9/10/1987	0963041908	Rạch Muỗi, Phú Hưng, Cái Nước, Cà Mau
+21	Trần Phước	Ngày vào làm	06/2016		8/4/1992	0938811570	Nại Cửu, Triệu Đông, Triệu Phong, Quảng Trị
+22	Võ Văn Mạnh	Ngày vào làm	06/2016		5/10/1997	0962521156	Thôn Cồn Bồi Kiệt, Triệu Long, Triệu Phong, Quảng Trị
+23	Đặng Văn Lịch		03/2022		7/26/1978	0907468173	Thạnh Quới, Vĩnh Thạnh, Cần Thơ
+
 
 nhà Xưởng:
 
