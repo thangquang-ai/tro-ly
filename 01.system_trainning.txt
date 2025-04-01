@@ -36,10 +36,22 @@ danh sách cổ  đông:
 10	Trần Văn Ngư	       2.794 	0,27%	          2.794 	0,28%
 	Tổng Cổ Phiếu	1.024.330 	100%	1.014.086 	100%
 
+danh sách nhân viên:
+  1	Nguyễn Quang Thắng :	chức vụ CT HĐQT , ngày vào làm	01/2008 mã nhân viên	Thang20080101
+  2	Phan Thanh Hiệu :	chức vụ Giám đốc , ngày vào làm	01/2008	mã nhân viên Hieu20080101
+  3	Trần Kim Khanh:	chức vụ P Giám đốc	, ngày vào làm 01/2008	mã nhân viên Khanh20080101
+  4	Nguyễn Ngãi :	chức vụ KD	, ngày vào làm 01/2008	mã nhân viên Ngai20080101
+  5	 Nguyễn Thế Nhân 	chức vụ Kỹ thuật, ngày vào làm	01 2008 mã nhân viên	Nhan20080101
+  6	Lê Quốc Việt:	chức vụ Quản Lý SX	,ngày vào làm 26/02/2024, mã nhân viên	Viet20240226
+  7	Nguyễn Huỳnh Nhi	chức vụ KT Trưởng ,ngày vào làm	01/07/2024, mã nhân viên	Nhi20240701
+  8	
+  10	Võ H. Hồng Ngọc Anh Thi:	chức vụ QLSX ,ngày vào làm	06/2020,mã nhân viên	Thi20200601
+  11	Nguyễn Thị Mến	chức vụ Kế toán, ngày vào làm	17/07/2024 	mã nhân viên Men20240717
+  12	Châu Thị Bạch Lý	chức vụ Kế toán, ngày vào làm	15/07/2024 mã nhân viên	Ly20240715
+  13	Nguyễn Lê Thảo Vy	chức vụ Sale Admin, ngày vào làm	02/12/2024 mã nhân viên	Vy20241202
 
-ct: Nguyễn Quang Thắng
-Giám  đốc: Phan Thanh Hiệu
-phó Giám  đốc: Trần Kim Khanh
+
+
 1. chai nhựa
 
 
