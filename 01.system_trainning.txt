@@ -82,7 +82,7 @@ máy móc:
 có phong GMP sản xuất các sản phẩm sạch sử dung trong các ngành thực phẩm, dược phẩm, thuốc thú y
 
 III. DOANH SỐ:
-doanh số màng nhôm qua các năm đơn vị triệu đồng
+doanh số sản xuất màng nhôm qua các năm đơn vị triệu đồng
  Năm 2018	       8.046,8 
  Năm 2019	       9.528,8 
  năm 2020	     10.965,3 
@@ -91,5 +91,34 @@ doanh số màng nhôm qua các năm đơn vị triệu đồng
  năm 2023	     13.790,9 
  năm 2024	     15.899,3 
  năm 2025	       3.791,1 
+doanh số kinh doanh màng nhôm qua các năm đơn vị triệu đồng
+
+Tổng cộng Năm 2016	  1.719,3 
+Tổng cộng Năm 2017	  1.843,9 
+Tổng cộng Năm 2018	  1.532,2 
+Tổng cộng Năm 2019	  1.648,7 
+Tổng cộng Năm 2020	  1.490,3 
+Tổng cộng Năm 2021	  3.016,7 
+Tổng cộng Năm 2022	  5.221,6 
+Tổng cộng Năm 2023	  2.936,7 
+Tổng cộng Năm 2024	  7.440,4 
+Tổng cộng Năm 2025	  1.020,8 
+
+
+doanh số sản xuất nhựa qua các năm đơn vị triệu đồng
+
+
+Tổng cộng 2014	        7.575,8 
+Tổng cộng 2015	        8.943,5 
+Tổng cộng 2016	      13.041,0 
+Tổng cộng 2017	      19.220,5 
+Tổng cộng 2018	      23.365,5 
+Tổng cộng 2019	      26.430,9 
+Tổng cộng 2020	      31.334,4 
+Tổng cộng 2021	      41.643,4 
+Tổng cộng 2022	      48.635,1 
+Tổng cộng 2023	      45.570,2 
+Tổng cộng 2024	      52.062,7 
+Tổng cộng 2025	      14.060,2 
 
 
