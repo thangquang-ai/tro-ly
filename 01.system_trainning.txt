@@ -151,7 +151,9 @@ danh sách nhân viên:
 14	 Lương Văn Nhiệm 	Nhiem20241018	HẬU CẦN	TÀI XẾ	10/18/2024	NAM	1/1/1992	0876633175	Ấp Xẻo Dừng, xã Ninh Thạnh Lợi, Hồng Dân, Bạc Liêu,
 15	Nguyễn Đình Tuấn	Tuan20241224	HẬU CẦN	TÀI XẾ	12/24/2024	NAM	4/28/1996	0934179628	Ấp Thới Bình, Giai Xuân, Phong Điền, Cần Thơ
 16	Nguyễn Minh Tâm	Tam20240307	HẬU CẦN	TÀI XẾ	07/03/2024	NAM	1/11/1985	0972968165	Ấp 5, Xã Đức Hòa Đông, H đức Hòa, Long An
+
 17	Nguyễn Thế Tâm	Tam20101001	MÀNG	TỔ TRƯỞNG	10/2010	NAM	1/22/1976	0902593334	Quyết Thắng, Bình Thắng, Thành phố Dĩ An, Bình Dương
+nghỉ từ ngày 01/03
 18	Đỗ Doãn Thanh	Thanh20160301	MÀNG	CÔNG NHÂN	03/2016	NAM	12/10/1979	0382679885	Tổ 13, Ấp 1 Xuân Tây, Cẩm Mỹ, Đồng Nai
 19	Lê Đức Mỹ	My20190701	MÀNG	CÔNG NHÂN	07/2019	NAM	28/09/1992	0848939123	An Giạ, Triệu Độ, Triệu Phong, Quảng Trị
 20	Nguyễn Thị Thúy	Thuy20240504	MÀNG	CÔNG NHÂN	5/16/2024	NỮ	3/29/1997	0369851493	Ấp 2, Đức Hòa Đông, Đức Hòa , Long An
@@ -161,10 +163,10 @@ danh sách nhân viên:
 24	Trần Văn Ngư	Ngu20121101	MÀNG	CÔNG NHÂN	11/2012	NAM	3/27/1981	0968619781	Đội 2 Gia Hòa Tịnh Long, TP. Quảng Ngãi, Quảng Ngãi        
 25	Võ Minh Nguyên	Nguyen20220401	MÀNG	CÔNG NHÂN	04/2022	NAM	26/06/1966	0904538330	420/20/4, KP5, Tân Tiến, TP. Biên Hòa, Đồng Nai
 26	Nguyễn Trung Hiền	Hien20241210	MÀNG	KỸ THUẬT MÀNG	12/10/2024	NAM	10/17/2002	0392117794	1560/7/32 Tỉnh Lộ 10, P. Tân Tạo, Bình Tân, TPHCM
-27	Trần Phước	Phuoc20160601	NHỰA	TRƯỞNG CA 	06/2016	NAM	8/4/1992	0938811570	Nại Cửu, Triệu Đông, Triệu Phong, Quảng Trị
+27	Trần Phước	Phuoc20160601 bộ phận	NHỰA chức vụ	TRƯỞNG CA 	06/2016	NAM	8/4/1992	0938811570	Nại Cửu, Triệu Đông, Triệu Phong, Quảng Trị
 28	Võ Văn Mạnh	Manh20160601	NHỰA	TRƯỞNG CA 	06/2016	NAM	5/10/1997	0962521156	Thôn Cồn Bồi Kiệt, Triệu Long, Triệu Phong, Quảng Trị
 29	Đặng Văn Lịch	Lich20220103	NHỰA	KỸ THUẬT	03/2022	NAM	7/26/1978	0907468173	Thạnh Quới, Vĩnh Thạnh, Cần Thơ
-30	Hoàng Minh Vương	Vuong20170301	NHỰA	KỸ THUẬT	03/2017	NAM	9/18/1993	0364908056	Thôn 1, Triệu Hải, Đạ Teh, Lâm Đồng
+30	Hoàng Minh Vương	Vuong20170301	NHỰA	chức vụ KỸ THUẬT	03/2017	NAM	9/18/1993	0364908056	Thôn 1, Triệu Hải, Đạ Teh, Lâm Đồng
 31	Lê Văn Công	Cong20120701	NHỰA	KỸ THUẬT	07/2012	NAM	4/22/1978	0938811570	494/11D Cách Mạng Tháng 8, P11, Q3, TP. Hồ Chí Minh
 32	Nguyễn Nguyên Trạng	Trang20230222	NHỰA	KỸ THUẬT	2/22/2023	NAM	9/10/1987	0963041908	Rạch Muỗi, Phú Hưng, Cái Nước, Cà Mau
 33	Nguyễn Văn Tý	Ty20231223	NHỰA	KỸ THUẬT	12/23/2023	NAM	9/28/1992	0359647106	Thôn Tân Mỹ, Nghĩa An, TP Quãng Ngãi, Quảng Ngãi
@@ -178,13 +180,13 @@ danh sách nhân viên:
 41	Phạm Văn Chí Thanh	Thanh20230728	NHỰA	QC	28/07/2023	NAM	6/25/1998	0373671466	Ấp Hồi Phước, Xuân Hiệp, Trà Ôn, Vĩnh Long
 42	Phan Thành Học	Hoc20230211	NHỰA	QC	2/11/2023	NAM	5/19/2001	0326233307	Ấp Vĩnh Thành, Vĩnh Tường, An Phú, An Giang
 43	Lưu Thị Dung	Dung20230201	NHỰA	NẮP - SEAL	01/02/2023	NỮ	8/1/1995	0767486312	Thôn 5, Mỹ Đức, Đạ Tẻh, Lâm Đồng
-44	Cao Thị Tuyết Nhi	Nhi20231231	NHỰA	NẮP - SEAL	21/10/2023	NỮ	07/01/2000	0378 916 097	Ấp 1B, Hữu Thạnh, Đức Hòa, Long An
+44	Cao Thị Tuyết Nhi	Nhi20231231	NHỰA	chức vụ NẮP - SEAL	21/10/2023	NỮ	07/01/2000	0378 916 097	Ấp 1B, Hữu Thạnh, Đức Hòa, Long An
 45	Nguyễn Thị Ngọc	Ngoc20250208	NHỰA	NẮP - SEAL	2/8/2025	Nữ	12/17/2006	0869524951	Ấp Trường Lộc, Trường Khánh, Long Phú, Sóc Trăng
 46	Phan Thị Hồng Cúc	Cuc20240709	NHỰA	NẮP - SEAL	7/9/2024	NỮ	3/12/2006	0384145983	Tân Thành, Tân Hồng Đồng Tháp
 47	Trần Trung Nguyên 	Nguyen20240730	NHỰA	NẮP - SEAL	30/7/2024	NAM	20/7/2000	0878880804	Ấp 2, xã Tân Thành, TP Cà Mau, Cà Mau
 48	Đỗ Minh Lý	Ly20230301	NHỰA	NẮP - ÉP	3/9/2023	NAM	1/1/1982	0328941519	Ấp Đông thạnh, Đồng Thuận Thới Lai, TP cần Thơ
 49	Thạch Si Rơ	Ro20240326	NHỰA	NẮP - ÉP	3/26/2024	NAM	1/1/1997	0374811740	Ấp 7, Tân lộc bắc, Thới Bình, Cà Mau
-50	Nguyễn Hoàng Dũng	Dung20250218	NHỰA	NẮP - ÉP	2/18/2025	NAM	6/14/1990	0366746440	Ấp Long Thạnh B, Long Khánh A, Hồng Ngự, Đồng Tháp
+50	Nguyễn Hoàng Dũng	Dung20250218	NHỰA	chức vụ NẮP - ÉP	2/18/2025	NAM	6/14/1990	0366746440	Ấp Long Thạnh B, Long Khánh A, Hồng Ngự, Đồng Tháp
 51	Nguyễn Quốc Thắng	Thang20220509	NHỰA	XAY - KEO	05/2022	NAM	10/12/1987	0776878939	Ấp Bình Trinh, Đồng Sơn, Gò Công Tây, Tiền Giang
 52	Nguyễn Thanh Hải	Hai20230202	NHỰA	XAY - KEO	02/02/2023	NAM	1/1/1983	0364196179	Ấp Thạnh Trúc, Thạnh Trị, Tân Hiệp, Kiên Giang
 53	Nguyễn Văn Thanh	Thanh20240215	NHỰA	XAY - KEO	2/15/2024	NAM	1/1/1987	0365511784	Trường Lộc, Trường Khánh, Long Phú, Sóc Trăng
@@ -194,7 +196,7 @@ danh sách nhân viên:
 57	Đinh Trường Thọ	Tho20250219	NHỰA	XAY - KEO	2/19/2025	NAM	1/10/1991	0333128810	Khóm Cà Sàng, Phường 2, Vĩnh Châu, Sóc Trăng
 58	Cao Danh Luân	Luan20240711	NHỰA	DÁN NHÃN	7/11/2024	NAM	5/5/2003	0377157865	Ấp Thạnh Trị, Long Điền, Long Hải, Bạc Liêu
 59	Nguyễn Thị Thuộc	Thuoc20230223	NHỰA	DÁN NHÃN	23/02/2023	NỮ	1/1/1981	0377442311	Ấp 1, Hưng Thạnh, Tháp Mười, Đồng Tháp
-60	Bùi Thị Mỹ Phượng	Phuong20190201	NHỰA	CẮT NHỰA	02/2019	NỮ	8/9/1998	0362780225	Thôn Ea Kung, KrôngBuk, Krông Pắc, Đắk Lắk
+60	Bùi Thị Mỹ Phượng	Phuong20190201	NHỰA	chức vụ CẮT NHỰA	02/2019	NỮ	8/9/1998	0362780225	Thôn Ea Kung, KrôngBuk, Krông Pắc, Đắk Lắk
 61	Lê Thị Cẩm Giang	Giang20230202	NHỰA	CẮT NHỰA	02/02/2023	NỮ	10/20/2004	0364196179	Ấp Trần Văn Nghĩa, Bàn Tân Định, Giồng Riềng, Kiên Giang
 62	Chà Thị Huỳnh Như	Nhu20240326	NHỰA	CẮT NHỰA	3/26/2024	NỮ	6/13/2003	0358838617	ẤP Tapasa 1, Tân Phú, Thới Bình, Cà Mau
 63	Danh Hoài	Hoai20240708	NHỰA	CẮT NHỰA	7/4/2024	NAM	11/21/2024	0386585367	KP Vĩnh Phước 1, TT Vĩnh Thuận, Vĩnh Thuận, Kiên Giang.
