@@ -69,7 +69,7 @@ văn phòng
   12	Châu Thị Bạch Lý	chức vụ Kế toán, ngày vào làm	15/07/2024 mã nhân viên	Ly20240715
   13	Nguyễn Lê Thảo Vy	chức vụ Sale Admin, ngày vào làm	02/12/2024 mã nhân viên	Vy20241202
 
-Trần Thị Thanh Thúy , ngày vào làm 30/01/2023 .  nghỉ ngày 1/4/2025
+Trần Thị Thanh Thúy , ngày vào làm 30/01/2023 .  nghỉ ngày 28/2/2025
 
 bộ phận màng nhôm
 
@@ -98,12 +98,18 @@ Nguyễn Vũ Luân	kho	01/02/2023	8/16/2005	091205010544	Ấp Thạnh Trúc, Th�
 Danh Được	kho	03/02/2023	3/2/1976	091076001892	KP Vĩnh Phước 1, Thị Trấn Vĩnh Thuận, Vĩnh Thuận, Kiên Giang
 
 bộ phận xay Đổ keo
-Nguyễn Văn Vĩnh Thuận	xay	04/2020	10/4/1968	092068010286	Thạnh Phước 1, Thạnh Hòa, Thốt Nốt, Cần Thơ
-Nguyễn Thanh Hải		02/02/2023	1/1/1983	091083019916	Ấp Thạnh Trúc, Thạnh Trị, Tân Hiệp, Kiên Giang
-Thạch Nhật		03/02/2023	2/1/1989	091089010452	Tổ 5, Thạnh Trúc, Thạnh Trị, Tân Hiệp, Kiên Giang
-Trương Văn Bé Tư		03/02/2023	01/01/1982	087082013447	Ấp Bình Thành A, Bình Thạnh, TX Hồng Ngự, Đồng Tháp
-Danh Phương		03/02/2023	3/2/1976	091073009983	Ấp Ruộng Sạ 1, Vĩnh Phong, Vĩnh Thuận, Kiên Giang
-Nguyễn Văn Thanh	Đổ keo	2/15/2024	1/1/1987	094087015475	Trường Lộc, Trường Khánh, Long Phú, Sóc Trăng
+Nguyễn Quốc Thắng	xay	05/2022	10/12/1987	0776878939	Ấp Bình Trinh, Đồng Sơn, Gò Công Tây, Tiền Giang
+
+Nguyễn Văn Vĩnh Thuận	xay	04/2020	10/4/1968	0788781017	Thạnh Phước 1, Thạnh Hòa, Thốt Nốt, Cần Thơ
+Nguyễn Thanh Hải		02/02/2023	1/1/1983	0364196179	Ấp Thạnh Trúc, Thạnh Trị, Tân Hiệp, Kiên Giang
+Thạch Nhật		03/02/2023	2/1/1989	0965443902	Tổ 5, Thạnh Trúc, Thạnh Trị, Tân Hiệp, Kiên Giang
+Trương Văn Bé Tư		03/02/2023	01/01/1982	0397780495	Ấp Bình Thành A, Bình Thạnh, TX Hồng Ngự, Đồng Tháp
+Danh Phương		03/02/2023	3/2/1976	0819287024	Ấp Ruộng Sạ 1, Vĩnh Phong, Vĩnh Thuận, Kiên Giang
+Đinh Trường Thọ		2/19/2025	1/10/1991	0333128810	Khóm Cà Sàng, Phường 2, Vĩnh Châu, Sóc Trăng
+
+Nguyễn Văn Thanh	Đổ keo	2/15/2024	1/1/1987	0365511784
+	Trường Lộc, Trường Khánh, Long Phú, Sóc Trăng
+
 
 
 nhà Xưởng:
@@ -135,7 +141,7 @@ có phong GMP sản xuất các sản phẩm sạch sử dung trong các ngành 
 -	Màng 1 mảnh thường dùng cho các loại chai thủy tinh, chai có nắp và miệng chai chuẩn và không cần bít kín trở lại sau khi sử dụng lần 1. Chai có nắp chai sử dụng nhiều mục đích như chai nước tương, tương ớt … 
 •	 Màng 2 mảnh: màng 2 mảnh là màng nhôm có 2 lớp tách rời nhau sau khi seal: loại này cũng có loại WELD hoặc PEEL. Dùng được cho tất cả các loại chai. Tùy theo ứng dụng mà màng có bao nhiêu lớp cho phù hợp: 
 -	Loại 4 lớp: 1. lớp dính( sealing layer), 2. lớp nhôm (Aluminium), 3. Lớp keo (wax), 4. Lớp Bột Giấy(Pulp board).
--	Loại 5 lớp: 1. lớp dính( sealing layer), 2. lớp polyester, 3. lớp nhôm (Aluminium), 4. Lớp keo (wax), 5. Lớp Bột Giấy(Pulp board).
+-	Loại 5 lớp: 1. lớp dính( sealing layer),  2. lớp nhôm (Aluminium),3. lớp polyester, 4. Lớp keo (wax), 5. Lớp Bột Giấy(Pulp board).
 -	Loại 6 lớp: 1. lớp dính(sealing layer), 2. lớp nhôm (Aluminium), 3. Lớp Giấy(Paper), 4. lớp polyester, 5. Lớp keo (wax), 6. Lớp Bột Giấy(Pulp board).
 -	Sau khi seal lớp keo(wax) biết mất lớp bột giấy tách ra khỏi lớp nhôm hoặc lớp giấy và được giữ lại trong nắp chai. Lớp màng nhôm và lớp dính dính chặt lên miệng chai. 
 -	Màng 2 mảnh thường dùng cho các loại chai có nắp và miệng chai không chuẩn, không đồng đều thì mảnh thứ 2 là lớp bột giấy có chức năng ép chặt lớp màng vào miệng chai khi seal sẽ đảm bảo độ kín tốt nhất. Những loại chai đựng sản phẩm sử dụng nhiều lần thì mảnh thứ 2 là lớp bột giấy có chức năng như 1 miếng roang đệm đảm bảo độ kín sau khi sử dụng lần 1.
