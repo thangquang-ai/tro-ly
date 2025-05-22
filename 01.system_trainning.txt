@@ -93,6 +93,18 @@ có phong GMP sản xuất các sản phẩm sạch sử dung trong các ngành 
 
 III. DOANH SỐ:
 doanh số sản xuất màng nhôm qua các năm đơn vị triệu đồng
+năm 2010 	1.928,7
+năm 2011: 	3.416 
+năm 2012	 4.544
+
+năm 2013	 4.208
+
+năm 2014	4.694
+năm 2015	4.797
+năm 2016	 7.181 
+
+năm 2017	 7.510
+
  Năm 2018	       8.046,8 
  Năm 2019	       9.528,8 
  năm 2020	     10.965,3 
@@ -102,34 +114,35 @@ doanh số sản xuất màng nhôm qua các năm đơn vị triệu đồng
  năm 2024	     15.899,3 
  năm 2025	       3.791,1 
 doanh số kinh doanh màng nhôm qua các năm đơn vị triệu đồng
-
-Tổng cộng Năm 2016	  1.719,3 
-Tổng cộng Năm 2017	  1.843,9 
-Tổng cộng Năm 2018	  1.532,2 
-Tổng cộng Năm 2019	  1.648,7 
-Tổng cộng Năm 2020	  1.490,3 
-Tổng cộng Năm 2021	  3.016,7 
-Tổng cộng Năm 2022	  5.221,6 
-Tổng cộng Năm 2023	  2.936,7 
-Tổng cộng Năm 2024	  7.440,4 
-Tổng cộng Năm 2025	  1.020,8 
+năm 2015	
+ Năm 2016	  1.719,3 
+ Năm 2017	  1.843,9 
+ Năm 2018	  1.532,2 
+ Năm 2019	  1.648,7 
+ Năm 2020	  1.490,3 
+ Năm 2021	  3.016,7 
+ Năm 2022	  5.221,6 
+ Năm 2023	  2.936,7 
+ Năm 2024	  7.440,4 
+Năm 2025	  1.020,8 
 
 
 doanh số sản xuất nhựa qua các năm đơn vị triệu đồng
+năm 2012	1.392,7
+năm 2013	5,253 
 
-
-Tổng cộng 2014	        7.575,8 
-Tổng cộng 2015	        8.943,5 
-Tổng cộng 2016	      13.041,0 
-Tổng cộng 2017	      19.220,5 
-Tổng cộng 2018	      23.365,5 
-Tổng cộng 2019	      26.430,9 
-Tổng cộng 2020	      31.334,4 
-Tổng cộng 2021	      41.643,4 
-Tổng cộng 2022	      48.635,1 
-Tổng cộng 2023	      45.570,2 
-Tổng cộng 2024	      52.062,7 
-Tổng cộng 2025	      14.060,2 
+năm 2014	        7.575,8 
+năm 2015	        8.943,5 
+năm 2016	      13.041,0 
+năm 2017	      19.220,5 
+năm 2018	      23.365,5 
+năm 2019	      26.430,9 
+năm 2020	      31.334,4 
+năm 2021	      41.643,4 
+năm 2022	      48.635,1 
+năm 2023	      45.570,2 
+năm 2024	      52.062,7 
+năm 2025	      14.060,2 
 
 
 danh sách nhân viên:
@@ -157,6 +170,7 @@ nghỉ từ ngày 01/03
 18	Đỗ Doãn Thanh	Thanh20160301	MÀNG	CÔNG NHÂN	03/2016	NAM	12/10/1979	0382679885	Tổ 13, Ấp 1 Xuân Tây, Cẩm Mỹ, Đồng Nai
 19	Lê Đức Mỹ	My20190701	MÀNG	CÔNG NHÂN	07/2019	NAM	28/09/1992	0848939123	An Giạ, Triệu Độ, Triệu Phong, Quảng Trị
 20	Nguyễn Thị Thúy	Thuy20240504	MÀNG	CÔNG NHÂN	5/16/2024	NỮ	3/29/1997	0369851493	Ấp 2, Đức Hòa Đông, Đức Hòa , Long An
+nghỉ từ 01/3
 21	Thị Đây Na	Na20240425	MÀNG	CÔNG NHÂN	25/04/2024	NỮ	1/1/1982	0359460192	Ấp Vàm, Ninh Thới, Hồng Dân, Bạc Liêu
 22	Trần Thái Hòa	Hoa20240910	MÀNG	CÔNG NHÂN	9/10/2024	NAM	10/19/1999	0343645726	Tổ 2, ấp Tịnh Châu, xã Tịnh Thới, TP. Cao Lãnh, Đồng Tháp
 23	Trần Trọng Hiếu	Hieu20211201	MÀNG	CÔNG NHÂN	12/2021	NAM	21/05/1999	0944907357	Tâm Xuân 2, Cam Thành, Cam Lộ, Quảng Trị
@@ -223,5 +237,7 @@ nghỉ từ ngày 01/03
 84	Trần Hữu Đức	Duc20250218	NHỰA	CẮT NHỰA	2/18/2025	NAM	12/21/1993	0339379938	Tổ 1, ấp Phú Bình, Phú Vĩnh, Tân Châu, An Giang
 85	Trần Thị Bích Vân	Van20240226	NHỰA	CẮT NHỰA	2/26/2024	NỮ	8/13/1991	0363525611	Ấp Khánh Châu ,Khánh Hòa, Châu Phú , An Giang
 86	Trịnh Thị Như Ý	Y20250207	NHỰA	CẮT NHỰA	2/7/2025	Nữ	10/15/2001	0357507642	Ấp Vĩnh Bảo, Vĩnh Hậu, An Phú, An Giang
-87	Trương Thị Như Ý	Y20240122	NHỰA	CẮT NHỰA	2/21/2024	NỮ	1/25/2006	0326991802	Tổ 8, Thắng Lợi, Tân Thuận, Vĩnh Thuận, Kiên Giang
+
+
+báo cáo kết quả kinh doanh , so sánh 2025 với 2024
 
